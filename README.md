@@ -1,5 +1,7 @@
 # Machine-Learning-Resources
 
+## Free online courses:
+
 [Machine Learning, Stanford University (Coursera)](https://www.coursera.org/learn/machine-learning/)
 
 [Machine Learning, Columbia University (edX)](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-3)
