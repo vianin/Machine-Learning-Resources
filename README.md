@@ -13,3 +13,5 @@
 [Machine Learning, Data School](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 
 [Machine Learning, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+
+[Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
