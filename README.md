@@ -15,3 +15,17 @@
 [Machine Learning, Carnegie Mellon University](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
 [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
+
+
+## Fast.ai
+
+  [Deep Learning for Coders (Getting Started)](http://course.fast.ai/start.html)
+
+  [Paperspace setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md)
+
+  [Deatailed Notebooks](https://github.com/fastai/fastai/tree/master/courses/dl1)
+
+  ### Lesson 1
+  [Lesson 1](http://course.fast.ai/lessons/lesson1.html)
+    
+  [Wiki: Lesson 1](http://forums.fast.ai/t/wiki-lesson-1/9398)
