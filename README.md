@@ -31,3 +31,16 @@
   [Lesson 1](http://course.fast.ai/lessons/lesson1.html)
     
   [Wiki: Lesson 1](http://forums.fast.ai/t/wiki-lesson-1/9398)
+
+
+## Neural Networks
+
+  [Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
+  
+  [Backpropagation - Christopher Olah](http://colah.github.io/posts/2015-08-Backprop/)
+  
+  ### CS231n (2016) - Andrej Karpathy
+  
+  [Syllabus](http://cs231n.stanford.edu/2016/syllabus.html)
+  
+  [Lectures](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
