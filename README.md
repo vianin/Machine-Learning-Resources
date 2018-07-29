@@ -23,7 +23,9 @@
 
   [Paperspace setup](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md)
 
-  [Deatailed Notebooks](https://github.com/fastai/fastai/tree/master/courses/dl1)
+  [Detailed Notebooks](https://github.com/fastai/fastai/tree/master/courses/dl1)
+  
+  [Paperspace](https://www.paperspace.com)
 
   ### Lesson 1
   [Lesson 1](http://course.fast.ai/lessons/lesson1.html)
